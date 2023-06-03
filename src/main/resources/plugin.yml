@@ -1,0 +1,4 @@
+name: TestHowaLib
+version: '${project.version}'
+main: jp.xhw.testhowalib.TestHowaLib
+api-version: 1.19
